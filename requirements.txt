@@ -1,0 +1,9 @@
+Flask
+goose3
+requests
+jieba
+janome
+langdetect
+langid
+beautifulsoup4
+werkzeug
